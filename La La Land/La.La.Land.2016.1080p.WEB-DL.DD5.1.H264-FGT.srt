@@ -1,1 +1,20 @@
-﻿
+﻿1
+00:00:44,074 --> 00:00:46,277
+<i>Bugün Güney Kaliforniya'da bir
+başka sıcak ve güneşli gün daha.</i>
+
+2
+00:00:46,339 --> 00:00:48,211
+<i>Sıcaklık Los Angeles'ın
+şehir merkezi için 29 derece, </i>
+
+3
+00:00:48,236 --> 00:00:50,187
+<i>gece sıcaklık 24
+dereceye kadar düşüyor.</i>
+
+4
+00:04:59,581 --> 00:05:04,611
+AŞIKLAR ŞEHRİ
+
+
