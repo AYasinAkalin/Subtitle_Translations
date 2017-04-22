@@ -82,28 +82,29 @@ Teşekkür ederim ama olmaz.
 Israr ediyorum.
 
 19
-00:06:43,632 --> 00:06:44,799
-Kimin geldiğini gördün mü?
+00:06:43,632 --> 00:06:45,552
+Az önce geleni gördün mü?
 
 20
 00:06:59,924 --> 00:07:00,923
-"25 Ocak, Pazartesi"
+25 OCAK
+PAZARTESİ
 
 21
-00:07:00,948 --> 00:07:02,143
-"Oyuncu seçmeleri!
-Şimdi"
+00:07:00,948 --> 00:07:02,348
+OYUNCU SEÇMELERİ!
+ŞİMDİ
 
 22
 00:07:02,417 --> 00:07:03,384
 Kahretsin!
 
 23
-00:07:05,187 --> 00:07:06,454
+00:07:05,187 --> 00:07:06,588
 Mia, nereye gittiğini sanıyorsun?
 
 24
-00:07:06,456 --> 00:07:08,155
+00:07:06,599 --> 00:07:08,155
 Şey, saat dördü beş geçiyor.
 
 25
@@ -117,212 +118,218 @@ Tamam.
 
 27
 00:07:11,560 --> 00:07:12,359
-İyi geceler!
+İyi akşamlar!
 
 28
 00:07:13,228 --> 00:07:14,195
 Aah!
 
 29
+00:07:14,974 --> 00:07:20,474
+(ARKAPLANDA)
+["Silent Night"]
+
+30
 00:07:27,186 --> 00:07:31,689
 Zil zurna sarhoştu!
 Bildiğin, keçileri kaçırmıştı.
 
-30
+31
 00:07:31,714 --> 00:07:34,582
 Çok çılgıncaydı,
 ben de sadece...
 
-31
-00:07:34,584 --> 00:07:36,650
-Görsen ölürdün.
-
 32
+00:07:34,584 --> 00:07:36,650
+Gülmekten ölürdün.
+
+33
 00:07:38,320 --> 00:07:41,188
 Hayır, Turner iyi.
 O iyi de, ben, şey...
 
-33
+34
 00:07:42,745 --> 00:07:45,793
 Denver'ın ona söylemesini
 bekleyecek misin yoksa...
 
-34
+35
 00:07:49,431 --> 00:07:50,331
 Ne?
 
-35
+36
 00:08:00,142 --> 00:08:00,875
 Tamam.
 
-36
+37
 00:08:06,282 --> 00:08:08,108
 Hayır, senin adına sevindim.
 
-37
+38
 00:08:10,685 --> 00:08:12,286
 Tabii ki sevindim.
 Sadece....
 
-38
+39
 00:08:15,724 --> 00:08:17,491
 Sadece düşündüm ki...
 
-39
-00:08:21,396 --> 00:08:22,496
-- Bilemiyorum.
+40
+00:08:21,396 --> 00:08:23,430
+- Bilemiyorum. Düşündüm de ben...
 - Bir saniye.
 
-40
-00:08:22,498 --> 00:08:23,430
-Düşündüm de ben...
-
 41
-00:08:25,700 --> 00:08:26,734
-Ne var Ruby?
+00:08:25,700 --> 00:08:28,536
+- KAST DİREKTÖRÜ: Ne var Ruby?
+- RUBY: Jessica telefonda.
 
 42
-00:08:26,736 --> 00:08:28,536
-Jessica telefonda.
-
-43
 00:08:28,538 --> 00:08:29,904
-Iı,
+KAST DİREKTÖRÜ:
+Şey,
 onu daha sonra arayacağımı söyle.
 
+43
+00:08:30,605 --> 00:08:31,626
+RUBY: İki dakika içinde diyeyim mi?
+
 44
-00:08:30,605 --> 00:08:31,438
-İki dakika içinde mi?
+00:08:32,798 --> 00:08:33,943
+KAST DİREKTÖRÜ: İki dakika olmadan ararım.
 
 45
-00:08:32,841 --> 00:08:33,841
-Daha da erken.
+00:08:33,954 --> 00:08:36,212
+- RUBY: Yemeğinizi getiriyorum.
+- KAST DİREKTÖRÜ: İşim bitmek üzere. Teşekkür ederim.
 
 46
-00:08:33,843 --> 00:08:34,985
-Öğle yemeğinizi getiriyorum.
+00:08:39,375 --> 00:08:40,906
+[KAPI KAPANIR]
 
 47
-00:08:35,010 --> 00:08:35,943
-İşim bitmek üzere.
-Teşekkür ederim.
+00:08:44,920 --> 00:08:46,854
+KAST DİREKTÖRÜ: Biliyor musun?
 
 48
-00:08:44,920 --> 00:08:46,854
-Biliyor musun?
-
-49
 00:08:46,856 --> 00:08:48,355
 Bence yeterliydi.
 Geldiğin için teşekkürler.
 
+49
+00:08:56,661 --> 00:08:57,661
+[FERMUAR SESİ]
+
 50
+00:09:44,153 --> 00:09:47,458
+[MIA MIRILDANIR]
+
+51
+00:09:51,161 --> 00:09:51,910
+[KAPI AÇILIR]
+
+52
 00:09:51,920 --> 00:09:55,723
 Çüş! Oha!
 Pencereyi açmaya ne dersin?
 
-51
-00:09:55,725 --> 00:09:57,104
+53
+00:09:55,725 --> 00:09:57,601
 İçeri havalı bir şekilde girmeni
 istemiştim.
 
-52
+54
 00:09:57,612 --> 00:09:58,559
 Teşekkürler.
 
-53
+55
 00:09:58,561 --> 00:10:00,027
 Mia!
 Seçmeler nasıl gitti?
 
-54
+56
 00:10:01,429 --> 00:10:02,696
 Eh.
 
-55
+57
 00:10:02,698 --> 00:10:05,266
 Al benden de o kadar.
 Jen orada mıydı?
 Veya Rachel?
 
-56
+58
 00:10:05,268 --> 00:10:06,567
 Jen ve Rachel'ı
 tanımıyorum.
 
-57
+59
 00:10:06,569 --> 00:10:07,801
 Görebileceğin en pislik insanlar.
 
-58
+60
 00:10:07,803 --> 00:10:09,036
 Yine de oradalar mıydı
 bilmiyorum.
 
-59
+61
 00:10:09,671 --> 00:10:11,038
 Kesin oradadırlar.
 
-60
+62
 00:10:11,063 --> 00:10:13,242
+CAITLIN:
 Neden banyoda toplandınız?
 
-61
-00:10:13,372 --> 00:10:13,851
-Pekâlâ.
-
-62
+63
 00:10:13,875 --> 00:10:15,342
+TRACY:
 İki dakika, millet!
 
-63
-00:10:15,344 --> 00:10:16,810
-Mia,
-geliyorsun değil mi?
-
 64
-00:10:16,812 --> 00:10:19,388
-Gelemem!
-Çalışacağım.
+00:10:15,344 --> 00:10:16,810
+TRACY:
+Mia, geliyorsun değil mi?
 
 65
-00:10:19,413 --> 00:10:20,609
-Ne?
+00:10:16,812 --> 00:10:19,388
+MIA: Gelemem!
+Çalışacağım.
 
 66
+00:10:19,413 --> 00:10:20,609
+TRACY: Ne?
+
+67
 00:10:21,283 --> 00:10:22,416
 Az önce "çalışacağım" mı dedi?
 
-67
+68
 00:10:24,583 --> 00:10:25,329
 Ne var?
 
-68
-00:10:25,354 --> 00:10:27,049
+69
+00:10:25,354 --> 00:10:27,063
 Bugünlük işin rast gitmemiş olabilir
 
-69
-00:10:27,074 --> 00:10:29,315
+70
+00:10:27,074 --> 00:10:29,339
 ama şu an elimde tam sana uygun
 dört tane iş var
 
-70
+71
 00:10:29,350 --> 00:10:31,331
 ve ben seni önereceğim.
 Ama şimdi bizimle geliyorsun.
 
-71
-00:10:31,760 --> 00:10:33,397
+72
+00:10:31,752 --> 00:10:33,389
 Çok eğlenceli olacak.
 
-72
-00:10:33,422 --> 00:10:34,171
-Eğlenceli falan olmayacak.
-
 73
-00:10:34,196 --> 00:10:35,196
-Belki olur.
-Olmayacak.
+00:10:33,400 --> 00:10:35,420
+- Eğlenceli falan olmayacak.
+- Belki olur.
+- Olmayacak.
 
 74
 00:10:35,431 --> 00:10:38,966
@@ -339,13 +346,13 @@ Bu bana tanıdık geldi.
 
 77
 00:10:41,771 --> 00:10:44,305
-Onu geri verecektim.
-Bu ne zamandir sende?
+- Onu geri verecektim.
+- Bu ne zamandir sende?
 
 78
 00:10:44,307 --> 00:10:46,507
-Hadi ama Mia.
-Uzun süredir.
+- Hadi ama Mia.
+- Uzun süredir.
 
 79
 00:10:46,509 --> 00:10:49,787
@@ -361,1087 +368,1293 @@ Birlikte dalgasını geçeriz.
 Beni hayal kırklığına uğrattın, Lex.
 
 82
-00:10:53,449 --> 00:10:54,958
+00:10:53,449 --> 00:10:54,935
 Dalga geçilecek hiçbir şey yok.
 
 83
 00:10:54,983 --> 00:10:58,444
-Bu partide
-en nadide insalcıl kişiler olacak.
+Tüm insanlığın en nadide
+üyeleri bu partide olacak.
 
 84
-00:10:58,748 --> 00:11:18,493
-♪♪
+00:10:58,455 --> 00:11:00,265
+♪  Davetiye bir elinde ♪
 
 85
-00:11:18,873 --> 00:11:20,941
-Tanrı, yardımcımız olsun!
+00:11:00,276 --> 00:11:02,426
+♪  Doğru adres diğerinde ♪
 
 86
-00:12:29,010 --> 00:12:30,477
-İşte budur kızım!
+00:11:02,437 --> 00:11:04,101
+♪  İlaç alman mı gerekiyor? ♪
 
 87
+00:11:04,112 --> 00:11:05,895
+♪  Cevabı hep evet oluyor ♪
+
+88
+00:11:05,906 --> 00:11:07,895
+♪  Ufak bir karşılaşma anıdır... ♪
+
+89
+00:11:07,906 --> 00:11:11,167
+♪  ...belki hep beklediğin ♪
+
+90
+00:11:11,178 --> 00:11:12,178
+♪  Azıcık incel sadece ♪
+
+91
+00:11:13,507 --> 00:11:17,025
+♪  Bir görevimiz var bu gece  ♪
+♪  Şansımız dönecek bu gece ♪
+
+92
+00:11:17,096 --> 00:11:18,862
+♪  Peki ya buysa asıl seçme ♪
+
+93
+00:11:18,873 --> 00:11:20,994
+♪ Tanrım yardım et hepimize ♪
+
+94
+00:11:21,057 --> 00:11:26,149
+♪ Ver doğru izlenimi ♪
+♪ Tanısın herkes seni ♪
+
+95
+00:11:26,266 --> 00:11:28,243
+♪ Gidiyoruz pek süratli ♪
+
+96
+00:11:28,254 --> 00:11:31,603
+♪ Kalabalıktaki birisi belki
+ kaynaşman gerekendir ♪
+
+97
+00:11:31,608 --> 00:11:35,652
+♪ Belki ayaklarını yerden kesecek olandır ♪
+
+98
+00:11:35,652 --> 00:11:39,101
+♪ Kalabalıktaki birisi belki
+götürür seni istediğin yere ♪
+
+99
+00:11:39,101 --> 00:11:41,905
+♪ Keşfedilmeye niyetin varsa öncelikle ♪
+
+100
+00:11:41,916 --> 00:11:44,811
+♪ niyetin varsa ♪
+
+101
+00:11:44,822 --> 00:11:48,154
+(HEPSI BİRDEN)
+♪ Ne yapman lazımsa yap ♪
+♪ Keşfedilene kadar yap ♪
+
+102
+00:11:48,165 --> 00:11:52,149
+♪  Şimdi olduğundan ♪
+♪  Bambaşka olana kadar yap ♪
+
+103
+00:11:52,225 --> 00:11:53,690
+♪ Yıldızlar kaynaşırken ♪
+
+104
+00:11:53,707 --> 00:11:55,612
+♪ Ben odamda kalacağım ♪
+
+105
+00:11:55,623 --> 00:11:59,182
+♪ Gitmeli ve bulmalısın... ♪
+
+106
+00:12:00,600 --> 00:12:02,940
+♪ ...kalabalıktaki o birisini. ♪
+
+107
+00:12:04,788 --> 00:12:09,804
+♫
+[TEMPOLU BATERİ VE KLAVYE SESİ]
+
+108
+00:12:09,815 --> 00:12:28,463
+♫
+
+109
+00:12:29,010 --> 00:12:30,477
+KIZLAR: İşte budur kızım!
+
+110
+00:12:33,444 --> 00:12:36,123
+♪ Kalabalıktaki o birisini!  ♪
+
+111
+00:13:45,044 --> 00:13:48,012
+♪ Kalabalıktaki o birisi  ♪
+
+112
+00:13:48,684 --> 00:13:52,265
+♪ sahiden bakıp gördüğün ♪
+♪ tek şey mi? ♪
+
+113
+00:13:53,827 --> 00:14:00,238
+♪ Devran hâlen ♪
+♪ dönüp dururken  ♪
+
+114
+00:14:02,413 --> 00:14:05,043
+♪ Bir yerlerde  ♪
+
+115
+00:14:05,063 --> 00:14:10,550
+♪ kendimi bulacağım bir yer var  ♪
+
+116
+00:14:11,908 --> 00:14:20,475
+♪ Yalnızca keşfedilmeyi ♪
+♪ bekleyen bir yer  ♪
+
+117
+00:15:06,883 --> 00:15:10,083
+♪ Kalabalıktaki birisi belki
+kaynaşman gerekendir ♪
+
+118
+00:15:10,094 --> 00:15:13,773
+♪ Belki ayaklarını yerden kesecek olandır ♪
+
+119
+00:15:13,984 --> 00:15:17,613
+♪  Kalabalıktaki birisi belki
+götürür seni istediğin yere ♪
+
+120
+00:15:17,934 --> 00:15:20,011
+♪ O birisi alır seni... ♪
+
+121
+00:15:20,036 --> 00:15:21,722
+♪ O birisi götürür seni... ♪
+
+122
+00:15:21,733 --> 00:15:23,558
+♪ ...Bulutların da tepesine ♪
+
+123
+00:15:23,600 --> 00:15:34,168
+♪ Keşfedilmeye niyetin varsa öncelikle ♪
+
+124
 00:15:34,375 --> 00:15:36,974
 ARAÇLARINIZ ÇEKİLİR
 AKŞAM 9dan SABAH 6ya KADAR
 PARK ETMEK YASAK
 
-88
+125
 00:15:36,998 --> 00:15:38,265
 Hayır, hayır
 
-89
+126
 00:15:39,300 --> 00:15:41,768
 Hadi ama!
 Ne?
 
-90
-00:17:07,121 --> 00:17:10,095
+127
+00:15:44,643 --> 00:15:45,713
+[SİNYAL YOK SESİ]
+
+128
+00:15:45,812 --> 00:15:48,197
+(SİNİRLİCE)
+MIA: Aah!
+Of!
+
+129
+00:16:09,338 --> 00:16:13,517
+<-- DEPO <-- GİRİŞ
+[TOPUKLU AYAKKABI SESLERİ]
+
+130
+00:16:24,250 --> 00:16:32,742
+(UZAKTAN GELEN)
+[YAVAŞ MÜZİK]
+
+131
+00:16:35,050 --> 00:16:38,617
+(İÇERİDEN GELEN)
+["Mia's & Seb's Theme"]
+
+132
+00:16:38,628 --> 00:17:07,097
+♫
+
+133
+00:17:07,108 --> 00:17:10,095
 {\an3}LIPTON'S
+
 AÇIK
 
-91
+134
+00:17:10,538 --> 00:17:39,687
+♫
+
+135
+00:17:39,765 --> 00:17:46,921
+♪
+(GİTTİKÇE ARTAN)
+[KORNA SESİ]
+
+136
+00:17:46,932 --> 00:17:48,569
+(GİTTİKÇE ARTAN)
+[KORNA SESİ]
+
+137
+00:17:48,580 --> 00:17:57,600
+(DEVAMLI)
+[KORNA SESİ]
+
+138
 00:18:09,328 --> 00:18:11,867
 RETRO SÜTÇÜ
 ARABAYA SERVİS
 
-92
+139
 00:18:12,757 --> 00:18:15,060
 {\an1}KALİFORNİYA PORTAKALLARI
 
-93
+140
 00:18:18,052 --> 00:18:20,334
 VAN BEEK
 TAPAS & MÜZİK
 
-94
+141
 00:18:26,896 --> 00:18:29,552
-[Anahtarla kapıyı açma denemeleri]
+[SEB. KAPI KİLİDİNİ ZORLAR]
 
-95
+142
+00:18:29,570 --> 00:18:30,869
+[SEB. KAPIYI TEKMELER]
+
+143
 00:18:30,879 --> 00:18:31,879
-[Kapı duvara hızlıca vurur]
+(ŞİDDETLİ)
+[ÇARPMA SESİ]
 
-96
+144
+00:18:33,593 --> 00:18:34,593
+[KAPI KAPANIR]
+
+145
 00:18:35,309 --> 00:18:37,177
 Lütfen evime
 gizlice girmeyi bırak.
 
-97
+146
 00:18:37,179 --> 00:18:38,912
 Sence annemle babam
  buraya ev der mi?
 
-98
+147
 00:18:38,914 --> 00:18:40,280
 Ne yapıyorsun?
 
-99
+148
 00:18:40,282 --> 00:18:41,959
 Lütfen yapma.
 Lütfen onun üzerine oturma.
 
-100
+149
 00:18:41,984 --> 00:18:44,407
 -Dalga mı geçiyorsun?
 -Lüfen onun üzerine oturma. Üzerine oturma.
 
-101
+150
 00:18:44,432 --> 00:18:46,930
 - Üzerine oturma.
 Onda Hoagy Carmichael oturuyordu!
 - Aman tanrım!
 
-102
+151
 00:18:46,955 --> 00:18:49,433
 - The Baked Potato bunu öylece atıvermiş.
 - Neden acaba?
 
-103
+152
 00:18:49,458 --> 00:18:51,024
 Ve sen de onun
 üzerine oturuyorsun.
 
-104
+153
 00:18:51,026 --> 00:18:52,058
 Sana kilim aldım.
 
-105
+154
 00:18:52,060 --> 00:18:53,226
 Ona ihtiyacım yok.
 
-106
+155
 00:18:53,228 --> 00:18:55,674
 Ya sana bunun üzerine
  Miles Davis'in işediğini söylersem?
 
-107
+156
 00:18:56,063 --> 00:18:59,166
 Hakaret gibi olurdu.
 Dediğin doğru mu?
 
-108
+157
 00:18:59,168 --> 00:19:01,190
 Bu kutuları
 ne zaman boşaltacaksın?
 
-109
+158
 00:19:02,196 --> 00:19:03,900
 Kutuları kendi kulübümde boşalttığımda.
 
-110
+159
 00:19:03,925 --> 00:19:07,407
 Of, Sebastian.
 Sanki bir kız senden ayrılmış da
 sen de yakasından düşememiş gibisin.
 
-111
+160
 00:19:07,409 --> 00:19:08,974
 Oraya artık gitmiyorsun,
 değil mi?
 
-112
+161
 00:19:09,978 --> 00:19:10,944
 Bu...
 
-113
+162
 00:19:11,579 --> 00:19:14,080
 Orayı Samba-Tapas mekanına
 çevirdiklerini söylesem inanmazsın.
 
-114
+163
 00:19:14,082 --> 00:19:15,282
 Aman tanrım,
 Sebastian!
 
-115
+164
 00:19:15,423 --> 00:19:16,655
 Samba. Tapas.
 
-116
+165
 00:19:17,659 --> 00:19:20,353
 Birisini seç, değil mi?
 Birisini düzgünce yap.
 
-117
+166
 00:19:20,355 --> 00:19:22,289
 Tanışmanı istediğim
  birisi var.
 
-118
+167
 00:19:22,291 --> 00:19:23,792
 Kimseyle tanışmak istemiyorum.
 
-119
+168
 00:19:24,225 --> 00:19:25,225
 Hayır, gerçekten.
 Kimseyle tanışmak istemiyorum.
 
-120
+169
 00:19:25,227 --> 00:19:26,426
 Bunu babam mı verdi?
 
-121
+170
 00:19:26,428 --> 00:19:27,928
 - Evet
 - Ondan hoşlanacaksın.
 
-122
+171
 00:19:27,930 --> 00:19:29,362
 Ondan hoşlanacağımı
 zannetmiyorum.
 
-123
+172
 00:19:29,364 --> 00:19:31,131
 - Caz seviyor mu?
 - Muhtemelen sevmiyor.
 
-124
+173
 00:19:31,133 --> 00:19:32,365
 Öyleyse neyi konuşuyoruz ki?
 
-125
+174
 00:19:32,367 --> 00:19:34,267
 Bilmiyorum!
 Çünkü bu hiç önemli değil, tamam mı?
 
-126
+175
 00:19:34,269 --> 00:19:36,102
 Çünkü keşiş gibi yaşıyorsun.
 
-127
+176
 00:19:36,104 --> 00:19:37,571
 Sigorta yaptırmadan
 araba kullanıyorsun.
 
-128
+177
 00:19:37,573 --> 00:19:39,272
 -"Bu önemli değil" mi?
 -Evet, önemli değil.
 
-129
+178
 00:19:39,274 --> 00:19:40,484
 - Tamam.
 O zaman ben de...
 - Ciddileş.
 
-130
+179
 00:19:40,509 --> 00:19:41,374
 ...senin tanışmanı istediğim
 yüzü maskeli birisini tanıyorum.
 
-131
+180
 00:19:41,376 --> 00:19:42,943
 ...senin tanışmanı istediğim
 yüzü maskeli birisini tanıyorum.
 -Bel altı vuruyorsun.
 
-132
+181
 00:19:42,945 --> 00:19:44,110
 - Ama altından kalbimle.
 - Ciddi ol!
 
-133
+182
 00:19:44,112 --> 00:19:45,695
 Ciddi mi olayım?
 Laura...
 
-134
+183
 00:19:45,695 --> 00:19:46,695
 Benim...
 
-135
+184
 00:19:46,975 --> 00:19:49,549
 Benim, geleceğimle ilgili
 çok ciddi bir planım var.
  -Biliyorum
 
-136
+185
 00:19:49,551 --> 00:19:52,085
 Bu işi yapmak zorunda
 kalmam benim suçum değil.
 
-137
+186
 00:19:52,087 --> 00:19:55,255
 Bu duruma zorlanmadın.
 Kazıklandın!
 
-138
+187
 00:19:55,257 --> 00:19:56,590
 Ne farkı var?
 
-139
+188
 00:19:56,592 --> 00:19:58,191
 Bilmiyorum.
 Sanırım birisi diğeri kadar romantik değil.
 
-140
+189
 00:19:59,493 --> 00:20:00,560
 Oturm...
 
-141
+190
 00:20:01,803 --> 00:20:04,530
 Sen hariç herkes o adamın bir
 dümen çevirdiğinin farkındaydı.
 
-142
+191
 00:20:05,444 --> 00:20:09,269
 Neden "romantik" kelimesini
 kötü bir şeymiş gibi kullanıyorsun?
 
-143
+192
 00:20:09,271 --> 00:20:12,202
 Ödenmemiş faturalar romantik değildir.
 Ara onu.
 
-144
+193
 00:20:13,040 --> 00:20:14,407
 Onu aramayacağım.
 
-145
+194
 00:20:14,409 --> 00:20:17,750
 Sorun şu ki, bana karşı sanki,
 hayat beni köşeye sıkıştırmış gibi davranıyorsun.
 
-146
+195
 00:20:17,775 --> 00:20:20,709
 Köşede kalmak isteyen benim.
 Tamam mı?
 
-147
+196
 00:20:20,734 --> 00:20:22,515
 Hayatın bana yorulasıya kadar
 vurmasına izin veriyorum.
 
-148
+197
 00:20:22,517 --> 00:20:24,985
 - Yaa?
 - Sonra ben vuracağım.
 
-149
+198
 00:20:24,987 --> 00:20:26,717
 Ünlü boksörün bildik taktiği.
 
-150
+199
 00:20:27,443 --> 00:20:31,124
 Tamamdır, Ali. Seni seviyorum.
 Kutuları boşalt.
 
-151
+200
 00:20:31,126 --> 00:20:33,093
 - Kilitleri değiştireceğim.
 - <i>Paran yetmez.</i>
 
-152
+201
 00:20:34,693 --> 00:20:37,063
 Küllerinden doğan bir Anka kuşuyum ben.
 
-153
+202
 00:20:40,977 --> 00:20:42,726
 ÖDEME GÜNÜ GEÇMİŞ
 
-154
+203
 00:21:25,212 --> 00:21:26,646
 Hey.
 
-155
+204
 00:21:26,648 --> 00:21:29,115
 - Bill. Beni işe tekrar aldığın için teşekkürler.
 - Rica ederim.
 
-156
+205
 00:21:29,117 --> 00:21:30,138
 - Tamamen farklı bir kişiye
 baktığını bilmeni isterim.
 
-157
+206
 00:21:30,163 --> 00:21:30,559
 - Güzel.
 
-158
+207
 00:21:30,583 --> 00:21:31,484
 - Burada bulunmaktan
 memnuniyet duyan birisi.
 
-159
+208
 00:21:31,486 --> 00:21:32,986
 - Fevkalade.
 
-160
+209
 00:21:32,988 --> 00:21:34,487
 - Sorun çıkarmayan birisi.
 
-161
+210
 00:21:34,489 --> 00:21:35,622
 - Ve sen de parça listesinden çalacaksın.
 
-162
+211
 00:21:35,624 --> 00:21:37,357
 - Memnuniyetle.
 
-163
+212
 00:21:37,359 --> 00:21:40,226
 Kimsenin ne çaldığımı
 umursamadığını düşünsem bile, evet...
 
-164
+213
 00:21:40,228 --> 00:21:43,286
 - Eğer "kimseden" kastın benim
 dışımdaki kimseler ise, evet haklısın.
 
-165
+214
 00:21:43,311 --> 00:21:45,565
  Ben önemsiyorum ve kafana
 göre caz çalmanı istemiyorum.
 
-166
+215
 00:21:45,567 --> 00:21:48,068
 - Tamam. Peki.
 
-167
+216
 00:21:48,070 --> 00:21:53,215
 Yine de bu civarda "bir sana bir bana"
 usulüyle çalışıldığını düşünüyordum.
 
-168
+217
 00:21:53,240 --> 00:21:54,988
 İki sana bir bana nasıl olur?
 
-169
+218
 00:21:56,297 --> 00:21:58,244
 Peki, hepsi sana
 kalmadı bana?
 
-170
+219
 00:21:58,246 --> 00:21:59,646
 - Evet, harika olur.
 - Pekâlâ.
 
-171
+220
 00:21:59,648 --> 00:22:01,281
 - Tamam.
 - Mutabakata vardık.
 
-172
+221
 00:22:01,283 --> 00:22:03,049
 - Evet, ben vardım.
 
-173
+222
 00:22:03,051 --> 00:22:05,218
 - Doğru.
 Ben de altına imzamı attım, yani...
 
-174
+223
 00:22:05,220 --> 00:22:07,129
 Her neyse.
 Kendini istediğin gibi avutabilirsin.
 
-175
+224
 00:22:07,722 --> 00:22:09,622
 Tekrar hoş geldin...
 
-176
+225
 00:22:11,359 --> 00:22:13,059
 Daha içten
 selam vermek de mümkün, Karen.
 
-177
+226
 00:22:15,779 --> 00:22:17,611
-[♪Jingle Bells ♪]
+["Jingle Bells"]
 
-178
+227
 00:22:17,636 --> 00:22:19,948
 ♫
 
-179
+228
 00:22:20,290 --> 00:22:24,083
 [Sohbet uğultusu]
 [♫]
 
-180
+229
 00:22:24,591 --> 00:22:35,356
 ♫
 
-181
+230
 00:22:45,427 --> 00:22:48,981
 [Arkaplanda gülüşmeler]
 
-182
+231
 00:22:52,091 --> 00:22:54,571
 [Seb. parça listesinden devam eder]
 
-183
+232
 00:22:54,722 --> 00:23:09,595
 ♫
 
-184
-00:23:10,411 --> 00:23:12,078
-[Seb. doğaçlamaya başlar]
+233
+00:23:10,418 --> 00:23:12,085
+(Seb. doğaçlamaya başlar)
 
-185
+234
 00:23:12,687 --> 00:23:14,122
-[♪Yavaş müzik ♪]
+[Yavaş müzik]
 
-186
+235
 00:23:14,180 --> 00:23:19,971
 ♫
 
-187
+236
 00:23:27,306 --> 00:23:30,626
-[♪ Mia's & Seb's Theme ♪]
+["Mia's & Seb's Theme"]
 
-188
+237
 00:23:30,841 --> 00:23:55,918
 ♫
 
-189
+238
 00:23:55,943 --> 00:24:00,539
 ♫
-[Arkaplan uğultusu kesilir]
+(Arkaplan uğultusu kesilir)
 
-190
+239
 00:24:00,539 --> 00:25:04,920
 ♫
 
-191
+240
 00:25:07,321 --> 00:25:12,868
 [Sohbet uğultusu devam eder]
 
-192
-00:25:16,377 --> 00:25:17,310
+241
+00:25:16,377 --> 00:25:17,377
 BILL: Seb.
 
-193
+242
 00:25:30,412 --> 00:25:31,452
 - Ne dediğini anlıyorum
 ama
 
-194
+243
 00:25:31,477 --> 00:25:33,658
 kastettiğinle söylediğinin aynı
 olmadığını düşünüyorum.
 
-195
+244
 00:25:33,743 --> 00:25:35,862
 - Bence dediğimi anlamıyorsun.
 Kovuldun.
 
-196
+245
 00:25:35,864 --> 00:25:38,674
 -Evet, ağzından çıkan bu ama
 bunu kastetmiyorsun.
 Kastettiğin şey...
 
-197
+246
 00:25:38,699 --> 00:25:39,899
 - ...Kovuldun.
 
-198
+247
 00:25:39,901 --> 00:25:41,125
 - ..."Parça listesinden çal."
 
-199
+248
 00:25:42,336 --> 00:25:44,604
--Hayır, diyorum ki artık çok geç.
+- Hayır, diyorum ki artık çok geç.
 - Bu bir uyarı.
 
-200
+249
 00:25:44,606 --> 00:25:46,272
 - Hangi gezegenden geldin sen be?!
 
-201
+250
 00:25:46,274 --> 00:25:47,360
 - Bill, kovma beni.
 - Buraya kadar.
 
-202
+251
 00:25:47,385 --> 00:25:48,684
 - Kovma beni.
 - Üzgünüm, Seb.
 
-203
+252
 00:25:48,909 --> 00:25:50,410
 - Noel'deyiz.
 
-204
+253
 00:25:50,412 --> 00:25:51,811
 - Evet, süslemelerden anlayabiliyorum.
 
-205
+254
 00:25:51,813 --> 00:25:53,537
 - Evet, süslemelerden anlayabiliyorum.
-Yeni yılda başarılar.
+Yeni yılda bol şans.
 
-206
+255
 00:26:07,661 --> 00:26:09,362
 Nasıl çaldığını duydum ve düşündüm de...
 
-207
+256
 00:26:21,211 --> 00:26:22,744
 [Kapı şiddetle kapanır]
 
-208
+257
 00:26:24,070 --> 00:26:27,247
 Tomografideki fisürden
 hiç hoşlanmadım.
 
-209
+258
 00:26:27,249 --> 00:26:29,449
 Renk körlüğü için testi yaptınız mı?
 
-210
+259
 00:26:29,451 --> 00:26:32,852
-23. Cadde'de olay yerinde ölü vardı.
-Fail Emniyet'te gözümüzün içine baka baka gülüyor.
+23. Cadde'de cinayet vakası.
+Suçlu karakolda gözümüzün içine baka baka gülüyor.
 
-211
+260
 00:26:32,854 --> 00:26:34,487
 Lanet yasal haklar.
 
-212
+261
 00:26:34,489 --> 00:26:36,556
 Burası benim sınıfım.
 
-213
+262
 00:26:36,558 --> 00:26:38,791
 Beğenmiyorsan,
 kapı solumda.
 
-214
+263
 00:26:38,793 --> 00:26:40,326
 Hanımefendi,
 neyin tribini atıyorsunuz?
 
-215
+264
 00:26:41,395 --> 00:26:44,964
 Hayır, Cemal.
 Asıl sen trip atıyorsun!
 
-216
-00:26:45,842 --> 00:26:49,484
-[Arkaplanda Take On Me çalar]
+265
+00:26:45,842 --> 00:26:49,495
+(ARKAPLANDA)
+["Take On Me"]
 
-217
-00:26:49,509 --> 00:26:50,154
-♫
-
-218
-00:26:50,178 --> 00:26:54,430
+266
+00:26:50,178 --> 00:26:54,444
 İLKBAHAR
 
-219
-00:26:54,455 --> 00:26:54,917
-♫
-
-220
+267
 00:26:54,942 --> 00:26:55,908
 <i>Buraya atla!</i>
 
-221
+268
 00:26:55,989 --> 00:27:06,396
-♫
+(Take On Me devam eder)
 
-222
+269
 00:27:06,421 --> 00:27:07,287
 Oh, Mia!
 
-223
+270
 00:27:07,921 --> 00:27:10,323
 - Selam
 - Selam
 
-224
+271
 00:27:10,325 --> 00:27:11,798
 - Arkadaşımla tanışmanı
 istiyorum, Carlo.
 
-225
+272
 00:27:11,823 --> 00:27:13,644
 - Selam.
-- Selam, Carlo. 
+- Selam, Carlo.
 <i>TRACY: Carlo, bu da Mia.</i>
 
-226
+273
 00:27:13,669 --> 00:27:15,295
 - Tanıştığıma memnun...
 - Mia?
 - Evet, Mia.
 
-227
+274
 00:27:15,297 --> 00:27:17,330
 - Merhaba. Nasılsın?
 - Carlo bir yazar.
 
-228
+275
 00:27:17,332 --> 00:27:19,299
 - Evet. Kurgulama konusunda
 hünerli olduğumu söylerler
 
-229
+276
 00:27:19,301 --> 00:27:20,466
 Gözler üzerimde.
 
-230
+277
 00:27:20,468 --> 00:27:23,469
 Çok rağbet görüyorum, insanlar hakkımda
 konuşuyor, bu da beni heyecanlandırıyor.
 
-231
+278
 00:27:23,494 --> 00:27:25,568
 Yani o kadar çalışıyorsun, sonra
 insanlar beğeni...
 - Gidip bi' içki alacağım.
 
-232
+279
 00:27:25,593 --> 00:27:26,593
 - Gidip bi' içki alacağım.
 - Olur.
 - Tamam.
 
-233
+280
 00:27:26,618 --> 00:27:27,783
 - Tanıştığıma memnun oldum.
 
-234
-00:27:27,993 --> 00:27:31,010
-♫ (Take On Me çalmaya devam ediyor)
+281
+00:27:27,993 --> 00:27:30,993
+(Take On Me devam eder)
 
-235
-00:27:31,538 --> 00:27:48,227
-♫
-
-236
-00:27:49,464 --> 00:27:50,396
+282
+00:27:49,464 --> 00:27:50,664
 Pardon.
 
-237
-00:27:50,756 --> 00:27:55,327
-♫
-
-238
+283
 00:28:19,361 --> 00:28:21,225
 <i> Teşekkürler.</i>
 <i> Başka istek parçası olan?</i>
 
-239
+284
 00:28:24,732 --> 00:28:25,498
-<i> Öndeki kızt!</i>
+<i> Öndeki kız!</i>
 
-240
+285
 00:28:26,467 --> 00:28:27,667
 <i> I Ran.</i>
 
-241
+286
 00:28:27,669 --> 00:28:30,370
 I Ran.
 <i> Harika bir seçim.</i>
 
-242
+287
 00:28:31,572 --> 00:28:34,574
-<i>Hadi bakalım piyanist çocuk, o tuşları
-dillendir bakalım. Hadi başlayalım.</i>
+<i>Hadi bakalım piyanist çocuk, 
+dillendir o tuşları bakalım.
+ Hadi başlayalım.</i>
 
-243
+288
 00:28:34,599 --> 00:28:34,886
 <i> Bir!</i>
 
-244
+289
 00:28:34,911 --> 00:28:35,257
 <i> Bir! İki!</i>
 
-245
+290
 00:28:35,282 --> 00:28:35,614
-<i> Bir! İki! Üç!</i>
+<i> Bir! İki! 
+Üç!</i>
 
-246
+291
 00:28:35,639 --> 00:28:36,171
-<i> Bir! İki! Üç! Dört!</i>
+<i> Bir! İki! 
+Üç! Dört!</i>
 
-247
+292
 00:28:47,625 --> 00:28:48,601
 <i> İşte böyle.</i>
 
-248
+293
 00:28:59,533 --> 00:29:00,466
 Ben mi?
 
-249
+294
 00:29:02,332 --> 00:29:03,499
 Yapmasana.
 
-250
+295
 00:29:47,681 --> 00:29:50,183
 - Haydi bakalım. Seni hatırladım.
 Ve kabul ediyorum...
 
-251
+296
 00:29:50,185 --> 00:29:52,138
 ...O gece biraz kaba davrandım.
 
-252
+297
 00:29:52,149 --> 00:29:53,186
 - Kaba mı?
 
-253
+298
 00:29:53,188 --> 00:29:55,253
 - Tamam, götlük yaptım.
 Kabul ediyorum.
 
-254
+299
 00:29:55,264 --> 00:29:56,122
 - Tamam.
 
-255
+300
 00:29:56,124 --> 00:29:59,792
 - Ama ciddi bir müzisyenden <i>I Ran</i> çalmasını
 istemek, işte... aşırı fazla işte.
 
-256
+301
 00:29:59,794 --> 00:30:03,095
-- Amanın! 
+- Amanın!
 Az önce "ciddi bir müzisyen" mi dedin?
 
-257
+302
 00:30:03,097 --> 00:30:04,664
 - Zannetmiyorum.
 
-258
+303
 00:30:04,666 --> 00:30:05,971
 - Şu giydiğini ödünç
 alabilir miyim?
 
-259
+304
 00:30:05,982 --> 00:30:06,646
 - Nedenmiş?
 
-260
+305
 00:30:06,657 --> 00:30:09,448
 - Çünkü gelecek hafta bir seçmem var.
 "Ciddi" bir itfaiyeyi canlandırıyorum.
 
-261
+306
 00:30:09,459 --> 00:30:11,471
 - Oyuncusun yani.
 Bana tanıdık geldiğini düşünüyordum.
 
-262
+307
 00:30:11,473 --> 00:30:12,962
 Seni bir yerde görmüş olabilir miyim?
 
-263
+308
 00:30:12,973 --> 00:30:14,607
 - Ah...
 
-264
+309
 00:30:14,609 --> 00:30:17,477
 Warner Brothers'taki kahvecide.
 Ünlü bir yer.
 
-265
+310
 00:30:17,488 --> 00:30:19,839
 - Anladım. Baristaymışsın.
 
-266
+311
 00:30:19,850 --> 00:30:22,682
 Şimdi taa o yükseklerden attığın
 aşağılayıcı bakışları anlıyorum.
 
-267
+312
 00:30:22,684 --> 00:30:24,150
 Sonraki şarkıya çıkıyoruz.
 
-268
+313
 00:30:25,853 --> 00:30:28,120
 - O bana...
 Ben...şey...
 
-269
+314
 00:30:28,122 --> 00:30:29,622
 Bana ne yapacağımı söylemez.
 
-270
+315
 00:30:29,624 --> 00:30:30,857
 - Az önce sana ne yapacağını söyledi.
 
-271
+316
 00:30:30,859 --> 00:30:32,658
 - Biliyorum. Ben izin verdim.
 
-272
+317
 00:30:32,660 --> 00:30:33,626
 Adın ne?
 
-273
+318
 00:30:33,628 --> 00:30:35,288
 - Mia.
 - Mia.
 
-274
+319
 00:30:37,130 --> 00:30:38,729
 Filmlerinde görüşürüz.
 
-275
+320
 00:30:41,159 --> 00:30:43,560
-<i>Joseph Campbell'ı duydun mu?
-A, evet!</i>
+CARLO: Joseph Campbell'ı duydun mu?
+MIA: A, evet!
 
-276
+321
 00:30:43,571 --> 00:30:45,916
-<i>Altın Saçlı Kız ve Üç Ayı masalını
-bu sefer ayıların</i>
+CARLO: Altın Saçlı Kız ve Üç Ayı masalını
+bu sefer ayıların
 
-277
+322
 00:30:45,927 --> 00:30:47,907
 perspektifinden yeniden
 yazmayı düşünüyorum.
 
-278
+323
 00:30:47,909 --> 00:30:49,642
-<i> Kahramanın Hikayesi.</i>
-Seri haline bile gelebilir.
+- "Kahramanın Hikayesi."
+- Seri haline bile gelebilir.
 
-279
+324
 00:30:49,644 --> 00:30:52,178
 - Evet.
 - Sonuç olarak emin değiliz.
 Belki dördüncü ayı ekleriz, bilmiyoruz.
 
-280
+325
 00:30:52,180 --> 00:30:53,608
 George Michael!
 
-281
+326
 00:30:59,086 --> 00:31:00,553
 Selam.
 
-282
+327
 00:31:00,555 --> 00:31:01,754
 - Kusura bakma.
 - Tabii, tabii.
 
-283
+328
 00:31:01,756 --> 00:31:03,656
 - Onu tanıyorum da.
 Anahtarlarını aldın mı?
 
-284
+329
 00:31:06,660 --> 00:31:07,527
 Mmm-hmm, evet.
 
-285
+330
 00:31:07,995 --> 00:31:09,161
 Benimkini de alabilir misin?
 
-286
+331
 00:31:09,163 --> 00:31:10,630
 Ne yapabilir miyim?
 
-287
+332
 00:31:10,632 --> 00:31:12,165
 Acaba benimkini de alabilir misin?
 Benim anahtarımı?
 
-288
+333
 00:31:12,176 --> 00:31:13,199
 - Duyamıyorum.
 
-289
+334
 00:31:13,201 --> 00:31:14,634
-<i>Afedersin.</i>
+- Afedersin.
 Anahtarımı alabilir misin?
 
-290
+335
 00:31:14,636 --> 00:31:15,535
-Ooh.
+- Ooh.
 
-291
+336
 00:31:16,236 --> 00:31:17,570
-<i>Lütfen?</i>
-Oh, hadi bakalım.
+MIA: Lütfen?
+- Oh, hadi bakalım.
 
-292
+337
 00:31:17,572 --> 00:31:19,188
-<i>Teşekkürler.</i>
-Rica ederim.
+MIA: Teşekkürler.
+- Rica ederim.
 
-293
-00:31:21,708 --> 00:31:23,068
+338
+00:31:21,708 --> 00:31:23,224
 - Ne marka?
-- Prius.
+MIA: Prius.
 
-294
+339
 00:31:26,046 --> 00:31:27,647
-Bu kadarı yardımcı olmayacak.
+- Bu kadarı yardımcı olmayacak.
 
-295
+340
 00:31:27,649 --> 00:31:28,748
-Yeşil kurdeleli olan.
+- Yeşil kurdeleli olan.
 
-296
-00:31:29,016 --> 00:31:30,149
-Tamam.
+341
+00:31:29,016 --> 00:31:30,580
+-  Tamam.
 
-297
+342
 00:31:33,320 --> 00:31:35,621
-Ayakkabıların, şey...
+SEB: Ayakkabıların, şey...
 oldukça rahat görünüyor.
 
-298
+343
 00:31:36,156 --> 00:31:37,189
-Öyleler .
+MIA: Öyleler.
 
-299
+344
 00:31:39,226 --> 00:31:41,237
-Partiyi canlı tuttuğun
+Partiyi ayakta tuttuğun
 için teşekkürler.
 
-300
+345
 00:31:43,525 --> 00:31:45,723
 Biraz da senin sayende oldu.
 
-301
+346
 00:31:47,276 --> 00:31:49,406
 Sürekli rastlaşmamız çok tuhaf.
 
-302
+347
 00:31:50,103 --> 00:31:51,382
 Tuhaf.
 
-303
+348
 00:31:53,045 --> 00:31:54,139
-- Belki bir anlamı vardır.
+Belki bir anlamı vardır.
 
-304
-00:31:54,150 --> 00:31:56,022
+349
+00:31:54,150 --> 00:31:55,736
 - Hiç zannetmiyorum.
 - Evet, haklısın.
 
-305
-00:31:56,033 --> 00:31:56,932
-Ner'de bu araba?
+350
+00:31:55,747 --> 00:31:56,932
+Nerede bu araba?
 
-306
+351
 00:31:58,132 --> 00:31:59,652
 O şeyi çenene yakın tut.
 
-307
-00:32:00,113 --> 00:32:00,947
+352
+00:32:00,113 --> 00:32:01,571
 - Bunu mu?
 - Evet.
 
-308
+353
 00:32:02,249 --> 00:32:04,665
 - Kafanı anten gibi işlev görüyor, yani...
 - Ooo.
 
-309
+354
 00:32:04,676 --> 00:32:06,812
-- Sanırım kanser yapıyor ama
+Sanırım kanser yapıyor ama
 arabanı daha hızlı buluyorsun.
 
-310
+355
 00:32:06,823 --> 00:32:07,720
-- Sanırım kanser yapıyor ama
-arabanı daha hızlı buluyorsun.
-- Ne?
+Ne?
 
-311
+356
 00:32:07,722 --> 00:32:10,826
-Çok yaşamıyorsun ama 
-gideceğin yere hemen varıyorsun, 
-yani  dengeleniyor.
+Çok yaşamıyorsun ama
+gideceğin yere hemen varıyorsun,
+yani dengeleniyor.
 
-312
+357
 00:32:10,837 --> 00:32:12,224
 Berbatmış.
 
-313
+358
 00:32:12,226 --> 00:32:14,006
 - Sadece bir öneriydi.
 - Sen var ya...
 
-314
+359
 00:32:14,861 --> 00:32:16,417
 Sen tam bir...
 
-315
+360
 00:32:16,640 --> 00:32:17,978
 Dilimin ucunda...
 
-316
+361
 00:32:17,989 --> 00:32:19,062
 Beyaz atlı prens?
 
-317
-00:32:19,073 --> 00:32:21,867
-- Buldum! Ucube. 
+362
+00:32:19,073 --> 00:32:22,066
+- Buldum! Ucube.
 - Olsun.
 
-318
+363
 00:32:28,919 --> 00:32:30,716
 Pek de bir şeye benzemiyor, değil mi?
 
-319
+364
 00:32:31,457 --> 00:32:33,192
 Daha güzellerini görmüştüm.
